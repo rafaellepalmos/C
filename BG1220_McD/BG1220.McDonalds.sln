@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BG1220.McDonalds", "BG1220.McDonalds\BG1220.McDonalds.vcproj", "{261306FC-E77E-411C-9BF6-92F78F9A541E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261306FC-E77E-411C-9BF6-92F78F9A541E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{261306FC-E77E-411C-9BF6-92F78F9A541E}.Debug|Win32.Build.0 = Debug|Win32
+		{261306FC-E77E-411C-9BF6-92F78F9A541E}.Release|Win32.ActiveCfg = Release|Win32
+		{261306FC-E77E-411C-9BF6-92F78F9A541E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

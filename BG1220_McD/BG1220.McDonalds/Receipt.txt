@@ -1,0 +1,8 @@
+26.00			Sundae Strawberry/Chocolate
+20.00			Hot Tea
+9.00			Cone
+
+
+TOTAL AMOUNT:		55.00
+PAYMENT:		3456.00
+CHANGE DUE:		3401.00
